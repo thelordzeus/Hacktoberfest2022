@@ -1,5 +1,5 @@
 {
-  "projectName": "Swags-for-Developers",
+  "projectName": "Hacktoberfest2022",
   "projectOwner": "MrKrishnaAgarwal",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -16,7 +16,8 @@
       "profile": "https://github.com/MrKrishnaAgarwal",
       "contributions": [
         "maintenance",
-        "code"
+        "code",
+        "content"
       ]
     }
   ],
