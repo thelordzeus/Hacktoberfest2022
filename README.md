@@ -6,7 +6,6 @@
 <a href="https://github.com/MrKrishnaAgarwal" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
 <a href="https://github.com/MrKrishnaAgarwal/hacktoberfest2022/pulls"><img src="https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/hacktoberfest2022" alt="Pull Requests Badge"/></a>
 
-<<<<<<< HEAD
 > You can also contribute in the following repo :-
 
 | Repository  | Issues  | Pull Requests  | Forks |
@@ -14,8 +13,7 @@
 | [Swags for Developers](https://github.com/MrKrishnaAgarwal/Swags-for-Developers) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/Swags-for-Developers?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/Swags-for-Developers/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/Swags-for-Developers?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/Swags-for-Developers/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/Swags-for-Developers?logo=git)](https://github.com/MrKrishnaAgarwal/Swags-for-Developers/network) |
 | [Drone Course](https://github.com/MrKrishnaAgarwal/Drone-Course) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/Drone-Course?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/Drone-Course/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/Drone-Course?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/Drone-Course/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/Drone-Course?logo=git)](https://github.com/MrKrishnaAgarwal/Drone-Course/network) |
 
-=======
->>>>>>> 534f47b6cb0ad487a0181db701acacf55316b255
+
 **✨ Thanks goes to these wonderful people ✨**
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
