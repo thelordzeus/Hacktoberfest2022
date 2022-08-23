@@ -6,7 +6,12 @@
 <a href="https://github.com/MrKrishnaAgarwal" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
 <a href="https://github.com/MrKrishnaAgarwal/hacktoberfest2022/pulls"><img src="https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/hacktoberfest2022" alt="Pull Requests Badge"/></a>
 
-> You can also contribute in the following repo :-
+<h4> This repo is only for practice but you can contribute in the repo's below.</h4>
+If you want to practice to make a pull request, follow the /CONTRIBUTING.md
+
+<br><br>
+
+> You can contribute in the following repo :-
 
 | Repository  | Issues  | Pull Requests  | Forks |
 |---|---|---|---|
