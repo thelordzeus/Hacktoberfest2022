@@ -1,10 +1,11 @@
-<!-- Thanks for making the pull request -->
+## Describe your changes
 
-## Checklist
-<!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-<!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
+## Screenshots - If Any (Optional)
 
-- [ ] Added your name and github profile url in contributors.md
-- [ ] Screenshots(s) added if any
-- [ ] starred the repo
+## Issue ticket number and link - If any
 
+## Checklist before requesting a review
+- [ ] My code follows the style guidelines of this project
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have performed a self-review of my code
+- [ ] Starred the repo
