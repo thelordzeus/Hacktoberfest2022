@@ -10,7 +10,7 @@
 
 If you want to practice to make a pull request, follow the [CONTRIBUTING.md](/CONTRIBUTING.md)
 
-<br><br>
+<br>
 
 > You can contribute in the following repo :-
 
