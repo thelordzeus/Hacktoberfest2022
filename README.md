@@ -34,3 +34,48 @@ If you want to practice to make a pull request, follow the [CONTRIBUTING.md](/CO
 </table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+### License
+
+**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE.md](/LICENSE.md) file for details**
+
+### Author
+
+* **Krishna Agarwal**
+* [Twitter](https://twitter.com/dmkrishnaa)
+* [GitHub](https://github.com/mrkrishnaagarwal)
+* [Website](https://mrkrishnaagarwal.github.io/)
+* [Email](mailto:dmkrishna.agarwal@gmail.com)
+
+<h4> See also the list of <a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/blob/main/CONTRIBUTORS.md">contributors</a> who participated in this project. </h4>
+
+### Contributing
+
+Please read [CONTRIBUTING.md](/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+### Support
+
+If you like this project, please consider supporting it by giving it a ⭐️. It will help us to grow and improve this project.
+
+### Conclusion
+
+- Happy Contributing! 🎉 
+- May you have a great Hacktoberfest 2022! 🎉
+- Stay Safe and Stay Healthy! 🙏
+- And, most importantly, have fun! 😄
+- If you have any questions, feel free to ask me. I will be happy to help you. 😊
+- Questions? Ask me or open an issue or create a discussion. 😊
+- Best of luck! 🤞
+- until next time, Happy Coding! 🎉
+- Thank you, Bye! 👋
+
+### References
+
+- [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com)
+- [Hacktoberfest 2022 Rules](https://hacktoberfest.digitalocean.com/details)
+- [Hacktoberfest 2022 FAQ](https://hacktoberfest.digitalocean.com/faq)
+- [Hacktoberfest 2022 Swag](https://hacktoberfestswaglist.com)
+
+<br>
+
+This project is a part of Hacktoberfest 2022 and is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator or a maintainer and earn a T-shirt from DigitalOcean and DEV by making four valid pull requests (PRs) between October 1-31 (in any time zone).
