@@ -22,19 +22,6 @@ If you want to practice to make a pull request, follow the [CONTRIBUTING.md](/CO
 | [Hello World](https://github.com/MrKrishnaAgarwal/Hello-World) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/Hello-World?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/Hello-World/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/Hello-World?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/Hello-World/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/Hello-World?logo=git)](https://github.com/MrKrishnaAgarwal/Hello-World/network/members) |
 | [Python Guide](https://github.com/MrKrishnaAgarwal/Python-Guide) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/Python-Guide?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/Python-Guide/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/Python-Guide?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/Python-Guide/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/Python-Guide?logo=git)](https://github.com/MrKrishnaAgarwal/Python-Guide/network/members) |
 
-
-**✨ Thanks goes to these wonderful people ✨**
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/MrKrishnaAgarwal"><img src="https://avatars.githubusercontent.com/u/100597998?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Krishna Agarwal</b></sub></a><br /><a href="#maintenance-MrKrishnaAgarwal" title="Maintenance">🚧</a> <a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=MrKrishnaAgarwal" title="Code">💻</a> <a href="#content-MrKrishnaAgarwal" title="Content">🖋</a></td>
-  </tr>
-</table>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
 ### License
 
 **This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE.md](/LICENSE.md) file for details**
@@ -79,3 +66,15 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 <br>
 
 This project is a part of Hacktoberfest 2022 and is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator or a maintainer and earn a T-shirt from DigitalOcean and DEV by making four valid pull requests (PRs) between October 1-31 (in any time zone).
+
+**✨ Thanks goes to these wonderful people ✨**
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/MrKrishnaAgarwal"><img src="https://avatars.githubusercontent.com/u/100597998?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Krishna Agarwal</b></sub></a><br /><a href="#maintenance-MrKrishnaAgarwal" title="Maintenance">🚧</a> <a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=MrKrishnaAgarwal" title="Code">💻</a> <a href="#content-MrKrishnaAgarwal" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
