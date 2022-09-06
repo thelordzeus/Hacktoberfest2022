@@ -1,4 +1,6 @@
-# HacktoberFest 2022 
+<h1 align="center"> <img src= "https://octodex.github.com/images/original.png" width= "40" /> HacktoberFest 2022 <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
+
+<div align="center">
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/MrKrishnaAgarwal/Hacktoberfest2022)
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
@@ -12,6 +14,8 @@
 
 If you want to practice to make a pull request, follow the [CONTRIBUTING.md](/CONTRIBUTING.md)
 
+</div>
+
 <br>
 
 > You can contribute in the following repo's :-
@@ -24,9 +28,7 @@ If you want to practice to make a pull request, follow the [CONTRIBUTING.md](/CO
 | [Hello World](https://github.com/MrKrishnaAgarwal/Hello-World) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/Hello-World?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/Hello-World/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/Hello-World?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/Hello-World/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/Hello-World?logo=git)](https://github.com/MrKrishnaAgarwal/Hello-World/network/members) |
 | [Python Guide](https://github.com/MrKrishnaAgarwal/Python-Guide) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/Python-Guide?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/Python-Guide/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/Python-Guide?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/Python-Guide/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/Python-Guide?logo=git)](https://github.com/MrKrishnaAgarwal/Python-Guide/network/members) |
 
-### License
-
-**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE.md](/LICENSE.md) file for details**
+<br>
 
 ### Author
 
@@ -80,3 +82,12 @@ This project is a part of Hacktoberfest 2022 and is open to all members of the G
 </table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+## License
+
+**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE.md](/LICENSE) file for details**
+
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0)
+
