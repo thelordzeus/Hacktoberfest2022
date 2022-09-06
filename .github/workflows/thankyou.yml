@@ -4,7 +4,7 @@ name: Thank you
 
 on:
   pull_request:
-    types: [merged]
+    types: [closed]
 
 jobs:
   thank_you:
