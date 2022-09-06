@@ -44,9 +44,16 @@ If you want to practice to make a pull request, follow the [CONTRIBUTING.md](/CO
 
 Please read [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
+### Rules
+
+* Read the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
+* Respect people.
+* Be friendly, helpful, and patient.
+* You can contribute in any way.
+
 ### Support
 
-If you like this project, please consider supporting it by giving it a ⭐️. It will help us to grow and improve this project.
+If you like this project, please consider supporting it by giving it a ⭐️. It will help us to grow and improve this project and help others to find it.
 
 ### Conclusion
 
