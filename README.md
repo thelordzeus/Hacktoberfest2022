@@ -42,7 +42,7 @@ If you want to practice to make a pull request, follow the [CONTRIBUTING.md](/CO
 
 ### Contributing
 
-Please read [CONTRIBUTING.md](/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ### Support
 
@@ -83,11 +83,8 @@ This project is a part of Hacktoberfest 2022 and is open to all members of the G
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-
 ## License
 
-**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE.md](/LICENSE) file for details**
-
+**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](/LICENSE) file for details**
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0)
-
