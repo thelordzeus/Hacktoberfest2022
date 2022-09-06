@@ -9,3 +9,4 @@
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have performed a self-review of my code
 - [ ] Starred the repo
+- [ ] Added My Name
