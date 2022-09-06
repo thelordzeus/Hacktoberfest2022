@@ -85,7 +85,7 @@ This project is a part of Hacktoberfest 2022 and is open to all members of the G
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/MrKrishnaAgarwal"><img src="https://avatars.githubusercontent.com/u/100597998?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Krishna Agarwal</b></sub></a><br /><a href="#maintenance-MrKrishnaAgarwal" title="Maintenance">🚧</a> <a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=MrKrishnaAgarwal" title="Code">💻</a> <a href="#content-MrKrishnaAgarwal" title="Content">🖋</a> <a href="#infra-MrKrishnaAgarwal" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/MrKrishnaAgarwal"><img src="https://avatars.githubusercontent.com/u/100597998?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Krishna Agarwal</b></sub></a><br /><a href="#maintenance-MrKrishnaAgarwal" title="Maintenance">🚧</a> <a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=MrKrishnaAgarwal" title="Code">💻</a> <a href="#content-MrKrishnaAgarwal" title="Content">🖋</a> <a href="#infra-MrKrishnaAgarwal" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=MrKrishnaAgarwal" title="Documentation">📖</a></td>
   </tr>
 </table>
 
