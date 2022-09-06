@@ -18,7 +18,8 @@
         "maintenance",
         "code",
         "content",
-        "infra"
+        "infra",
+        "doc"
       ]
     }
   ],
