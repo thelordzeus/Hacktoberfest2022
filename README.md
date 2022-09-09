@@ -70,9 +70,7 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 ### References
 
 - [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com)
-- [Hacktoberfest 2022 Rules](https://hacktoberfest.digitalocean.com/details)
-- [Hacktoberfest 2022 FAQ](https://hacktoberfest.digitalocean.com/faq)
-- [Hacktoberfest 2022 Swag](https://hacktoberfestswaglist.com)
+- [Hacktoberfest 2022 Participation Guidelines](https://hacktoberfest.com/participation)
 
 <br>
 
