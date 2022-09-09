@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img src= "Assets/Hfest-Logo-2-Color-Manga.png" width= "300"/>
+<img src= "Assets/Hfest-Logo-2-Color-Manga.png" width= "400"/>
 
-<br>
+<br> <br>
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/MrKrishnaAgarwal/Hacktoberfest2022)
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
@@ -65,13 +65,7 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 
 - Happy Contributing! 🎉 
 - May you have a great Hacktoberfest 2022! 🎉
-- Stay Safe and Stay Healthy! 🙏
-- And, most importantly, have fun! 😄
 - If you have any questions, feel free to ask me. I will be happy to help you. 😊
-- Questions? Ask me or open an issue or create a discussion. 😊
-- Best of luck! 🤞
-- until next time, Happy Coding! 🎉
-- Thank you, Bye! 👋
 
 ### References
 
@@ -82,7 +76,9 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 
 <br>
 
-This project is a part of Hacktoberfest 2022 and is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator or a maintainer and earn a T-shirt from DigitalOcean and DEV by making four valid pull requests (PRs) between October 1-31 (in any time zone).
+- This project and other projects listed above are a part of Hacktoberfest 2022 and are open to all members of the GitHub community. Any member may contribute to these projects without being a collaborator or a maintainer and earn a T-shirt from DigitalOcean and DEV by making four valid pull requests (PRs) between October 1-31 (in any time zone).
+
+- The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 
 **✨ Thanks goes to these wonderful people ✨**
 
