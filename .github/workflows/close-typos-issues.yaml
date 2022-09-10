@@ -9,7 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: ben-z/actions-comment-on-issue@1.0.2
-      - uses: thollander/actions-comment-pull-request@v1
         with:
           message: "Hello! :wave:\n\nThis issue is being automatically closed, Please open a issue or PR with a relevant fix."
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
