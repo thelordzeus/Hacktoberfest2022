@@ -20,6 +20,7 @@
 
 If you want to practice to make a pull request, follow the [CONTRIBUTING.md](/CONTRIBUTING.md)
 
+Discuss and chat with others [here](https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/discussions/6)
 </div>
 
 <br>
