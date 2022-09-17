@@ -20,11 +20,12 @@
 
 If you want to practice to make a pull request, follow the [CONTRIBUTING.md](/CONTRIBUTING.md)
 
+Discuss and chat with others [here](https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/discussions/6)
 </div>
 
 <br>
 
-> You can contribute in the following repo's :-
+> You can also contribute in the following repo's :-
 
 | Repository  | Issues  | Pull Requests  | Forks |
 |---|---|---|---|
@@ -33,13 +34,13 @@ If you want to practice to make a pull request, follow the [CONTRIBUTING.md](/CO
 | [Git Cheat Sheet](https://github.com/MrKrishnaAgarwal/Git-CheatSheet) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/Git-CheatSheet?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/Git-CheatSheet?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/Git-CheatSheet?logo=git)](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/network/members) |  
 | [Hello World](https://github.com/MrKrishnaAgarwal/Hello-World) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/Hello-World?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/Hello-World/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/Hello-World?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/Hello-World/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/Hello-World?logo=git)](https://github.com/MrKrishnaAgarwal/Hello-World/network/members) |
 | [Python Guide](https://github.com/MrKrishnaAgarwal/Python-Guide) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/Python-Guide?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/Python-Guide/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/Python-Guide?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/Python-Guide/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/Python-Guide?logo=git)](https://github.com/MrKrishnaAgarwal/Python-Guide/network/members) |
-
+| [30 Days of Code](https://github.com/MrKrishnaAgarwal/30DaysOfCode) | [![GitHub issues](https://img.shields.io/github/issues/MrKrishnaAgarwal/30DaysOfCode?color=pink&logo=github)](https://github.com/MrKrishnaAgarwal/30DaysOfCode/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/30DaysOfCode?style=social&logo=github)](https://github.com/MrKrishnaAgarwal/30DaysOfCode/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/MrKrishnaAgarwal/30DaysOfCode?logo=git)](https://github.com/MrKrishnaAgarwal/30DaysOfCode/network/members) |
 <br>
 
 ### Author
 
 * **Krishna Agarwal**
-* [Twitter](https://twitter.com/dmkrishnaa)
+* [Twitter](https://twitter.com/DMKrishnaA)
 * [GitHub](https://github.com/mrkrishnaagarwal)
 * [Website](https://mrkrishnaagarwal.github.io/)
 * [Email](mailto:dmkrishna.agarwal@gmail.com)
