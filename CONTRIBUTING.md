@@ -13,7 +13,7 @@
 * Fork this repo.
 * Clone the forked repo.
 * Create a new branch.
-* Head to [CONTRIBUTORS.md](/CONTRIBUTORS.md)
+* Head to [Practice_PR.md](/Practice_PR.md)
 * Add this line of code to next line after a name.
 ```
 - [YourName](https://github.com/YourGitHubUsername)

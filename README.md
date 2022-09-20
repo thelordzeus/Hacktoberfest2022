@@ -47,7 +47,7 @@ Check out `good-first-issues` for contributing [here](https://github.com/MrKrish
 * [Website](https://mrkrishnaagarwal.github.io/)
 * [Email](mailto:dmkrishna.agarwal@gmail.com)
 
-<h4> See also the list of <a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/blob/main/CONTRIBUTORS.md">contributors</a> who participated in this project. </h4>
+<h4> See also the list of <a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/graphs/contributors">contributors</a> who participated in this project. </h4>
 
 ### Contributing
 
@@ -96,6 +96,8 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+<h4> If your name is missing from the contributors list, please create an issue and I'll make sure to add you only if you have contributed to this project. </h4>
 
 ## License
 
