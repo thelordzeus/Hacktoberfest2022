@@ -4,8 +4,8 @@ tite: Add [name] as a contributor
 labels: 'contributor'
 assignees: MrKrishnaAgarwal
 body:
- - type: markdown
-   attributes:
+  - type: markdown
+    attributes:
      value: |
        # Add Me as a Contributor
   - type: input
