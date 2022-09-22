@@ -1,6 +1,6 @@
 name: Add Me as a Contributor
-about: Add yourself as a contributor to the project
-tite: Add [name] as a contributor
+description: Add yourself as a contributor to the project
+title: Add [name] as a contributor
 labels: 'contributor'
 assignees: MrKrishnaAgarwal
 body:
