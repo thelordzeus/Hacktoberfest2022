@@ -87,9 +87,12 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://github.com/MrKrishnaAgarwal"><img src="https://avatars.githubusercontent.com/u/100597998?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Krishna Agarwal</b></sub></a><br /><a href="#maintenance-MrKrishnaAgarwal" title="Maintenance">🚧</a> <a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=MrKrishnaAgarwal" title="Code">💻</a> <a href="#content-MrKrishnaAgarwal" title="Content">🖋</a> <a href="#infra-MrKrishnaAgarwal" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=MrKrishnaAgarwal" title="Documentation">📖</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/MrKrishnaAgarwal"><img src="https://avatars.githubusercontent.com/u/100597998?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Krishna Agarwal</b></sub></a><br /><a href="#maintenance-MrKrishnaAgarwal" title="Maintenance">🚧</a> <a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=MrKrishnaAgarwal" title="Code">💻</a> <a href="#content-MrKrishnaAgarwal" title="Content">🖋</a> <a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=MrKrishnaAgarwal" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/Daksheshapkare"><img src="https://avatars.githubusercontent.com/u/113005270?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daksheshapkare</b></sub></a><br /><a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=Daksheshapkare" title="Code">💻</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->
