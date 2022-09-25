@@ -38,6 +38,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "sceary-expert",
+      "name": "Dhananjoy Dey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84634405?v=4",
+      "profile": "https://dhananjoy-dey.netlify.app/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
