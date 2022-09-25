@@ -1,18 +1,17 @@
-name: Actions when a PR is open
+name: Add Labels
+
 on:
   pull_request:
-    types: [opened, reopened]
+    types: opened
 
 jobs:
-  label_pr_when_open:
+  add_labels:
     runs-on: ubuntu-latest
-    name: Add the hacktoberfest label when a pr is open
     steps:
-      - name: Label a pr when opened
-        id: approved
-        uses: lightspeedretail/actions-label-prs@v1
+      - uses: actions/checkout@v2
+      - uses: actions-ecosystem/action-add-labels@v1
+        if: ${{ startsWith(github.event.comment.body, '/add-labels') }}
         with:
-          task: 'label_pr_add'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ADD_LABEL: "hacktoberfest"
+          labels: |
+            hacktoberfest 
+            in-progress 
