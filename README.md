@@ -109,3 +109,7 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 **This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](/LICENSE) file for details**
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0)
+
+## Feedback
+
+Your feedback is appreciated. Please fill out this [form](https://ap6os32b27j.typeform.com/to/UUsVHrTC) to share your feedback and suggestions, or create an issue.
