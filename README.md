@@ -102,7 +102,7 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-<h4> If your name is missing from the contributors list, please create an issue and I'll make sure to add you only if you have contributed to this project. </h4>
+ **If your name is missing from the contributors list, please create an issue [here](https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/issues/new?assignees=MrKrishnaAgarwal&labels=contributor&template=contributor.yml&title=Add+%5Bname%5D+as+a+contributor) and I'll make sure to add you only if you have contributed to this project.**
 
 ## License
 
