@@ -14,6 +14,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GIPHY_API_KEY: ${{ secrets.GIPHY_API_KEY }}
         with:
-          trigger: '[".*looks good to me.*"]'
+          trigger: '["LGTM", "lgtm", "LGTM!", "lgtm!, looks good to me"]'
           override: true
           source: 'giphy'
