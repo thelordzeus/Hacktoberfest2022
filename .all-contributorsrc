@@ -46,6 +46,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "devarshishimpi",
+      "name": "Devarshi Shimpi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43378923?v=4",
+      "profile": "https://stonecss.com/",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
