@@ -94,6 +94,7 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
       <td align="center"><a href="https://github.com/PrakashGatiyala"><img src="https://avatars.githubusercontent.com/u/34413515?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Prakash Gatiyala</b></sub></a><br /><a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=PrakashGatiyala" title="Code">💻</a></td>
       <td align="center"><a href="https://dhananjoy-dey.netlify.app/"><img src="https://avatars.githubusercontent.com/u/84634405?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dhananjoy Dey</b></sub></a><br /><a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=sceary-expert" title="Code">💻</a></td>
       <td align="center"><a href="https://stonecss.com/"><img src="https://avatars.githubusercontent.com/u/43378923?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Devarshi Shimpi</b></sub></a><br /><a href="#maintenance-devarshishimpi" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="https://github.com/Rhilican"><img src="https://avatars.githubusercontent.com/u/56786964?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rhilican</b></sub></a><br /><a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=Rhilican" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
