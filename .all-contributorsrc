@@ -64,6 +64,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "nitin-pandita",
+      "name": "Nitin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91310284?v=4",
+      "profile": "https://youtube.com/channel/UCIu4_rmTqqH6W9Gg86Vel8Q",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
