@@ -97,6 +97,9 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
       <td align="center"><a href="https://github.com/Rhilican"><img src="https://avatars.githubusercontent.com/u/56786964?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rhilican</b></sub></a><br /><a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=Rhilican" title="Code">💻</a></td>
       <td align="center"><a href="https://youtube.com/channel/UCIu4_rmTqqH6W9Gg86Vel8Q"><img src="https://avatars.githubusercontent.com/u/91310284?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nitin</b></sub></a><br /><a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=nitin-pandita" title="Code">💻</a></td>
     </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/renanlmiranda"><img src="https://avatars.githubusercontent.com/u/29776981?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Renan Miranda</b></sub></a><br /><a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=renanlmiranda" title="Code">💻</a></td>
+    </tr>
   </tbody>
 </table>
 
