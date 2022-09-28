@@ -1,6 +1,5 @@
 on:
   issues:
-  pull_request:
     types: [opened, labeled]
 
 jobs:
