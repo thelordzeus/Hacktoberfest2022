@@ -102,6 +102,7 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
       <td align="center"><a href="https://github.com/GitSatishGarg"><img src="https://avatars.githubusercontent.com/u/71393132?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Voltronex</b></sub></a><br /><a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=GitSatishGarg" title="Code">💻</a></td>
       <td align="center"><a href="https://www.linkedin.com/in/rohan-mohanty-325927202"><img src="https://avatars.githubusercontent.com/u/100196185?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohan Mohanty</b></sub></a><br /><a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=mohantyrohan3" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/Cyberguru1"><img src="https://avatars.githubusercontent.com/u/107911619?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hamza Saidu</b></sub></a><br /><a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=Cyberguru1" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/eastmest"><img src="https://avatars.githubusercontent.com/u/67630180?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rachit jain</b></sub></a><br /><a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=eastmest" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
