@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h3> ⚠ This repo will be Archived Soon ⚠ </h3>
+<h3> ⚠ This repo is archived ⚠ </h3>
 
 <br>
 
