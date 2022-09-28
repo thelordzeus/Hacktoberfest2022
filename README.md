@@ -100,6 +100,7 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
     <tr>
       <td align="center"><a href="https://github.com/renanlmiranda"><img src="https://avatars.githubusercontent.com/u/29776981?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Renan Miranda</b></sub></a><br /><a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=renanlmiranda" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/GitSatishGarg"><img src="https://avatars.githubusercontent.com/u/71393132?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Voltronex</b></sub></a><br /><a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=GitSatishGarg" title="Code">💻</a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/rohan-mohanty-325927202"><img src="https://avatars.githubusercontent.com/u/100196185?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohan Mohanty</b></sub></a><br /><a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/commits?author=mohantyrohan3" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
